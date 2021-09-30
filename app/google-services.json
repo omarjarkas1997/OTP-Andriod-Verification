@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563735263245",
+    "project_id": "otp-authentication-1858d",
+    "storage_bucket": "otp-authentication-1858d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563735263245:android:64dd903949fad75a1b7d44",
+        "android_client_info": {
+          "package_name": "com.moderna.attempt1optauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563735263245-b0ummqqc3ju91ngqn26to5dgkhur7jcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe5H1wjWvRUdMbR2d3_y1XWw7x17FIOOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563735263245-b0ummqqc3ju91ngqn26to5dgkhur7jcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Attempt1 OPT Authentication</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="max_coder">Max Coder</string>
+    <string name="_continue">Continue</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="register">Register</string>
+    <string name="choose_one_of_the_following">Choose one of the following:</string>
+    <string name="sign_in">Sign In</string>
+
+
+    <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\"</string>
+    <string name="page0_choice1">Stop and investigate</string>
+    <string name="page0_choice2">Continue home to Earth</string>
+
+    <string name="page6">You arrive home on Earth. While your mission was a success, you forever wonder what was sending that signal. Perhaps a future mission will be able to investigate…</string>
+    <string name="story_image_content_description">Story page image</string>
+    <string name="play_again_button_text">PLAY AGAIN</string>
+    <string name="university_of_queensland">University of Queensland</string>
+    <string name="register_to_continue">Register to Continue</string>
+    <string name="phone_auth">Phone Auth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify">Verify</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_otp_below">Enter OTP Below</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
